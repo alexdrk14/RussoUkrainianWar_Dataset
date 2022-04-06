@@ -25,13 +25,6 @@ We are manage to perform multiple statistical measurments in daily basis over th
 
 All described analytics are published in [Parasecurity Group webpage](https://alexdrk14.github.io/RussiaUkraineWar/). 
 
-## Notes About the Data
-### Other Notes
-* We will keep a running summary of basic statistics as we upload data in each new release. 
-* The file keywords.txt and accounts.txt contains the updated keywords and accounts respectively that we tracked in our data collection. Each keyword and account will be followed by the date we began tracking them, and date we removed them (if the keyword or account has been removed) from our tracking list. 
-* Consider using tools such as the [Hydrator](https://github.com/DocNow/hydrator) and [Twarc](https://github.com/DocNow/twarc) to rehydrate the Tweet IDs. Instructions for both are in the next section. 
-* Hydrating may take a while, and Tweets may have been deleted since our initial collection. If that is the case, unfortunately you will not be able to get the deleted Tweets from querying Twitter's API. 
-
 ## How to Hydrate
 
 ### Hydrating using [Hydrator](https://github.com/DocNow/hydrator) (GUI)
