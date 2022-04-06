@@ -25,30 +25,6 @@ We are manage to perform multiple statistical measurments in daily basis over th
 
 All described analytics are published in [Parasecurity Group webpage](https://alexdrk14.github.io/RussiaUkraineWar/). 
 
-## How to Hydrate
-
-### Hydrating using [Hydrator](https://github.com/DocNow/hydrator) (GUI)
-Navigate to the [Hydrator github repository](https://github.com/DocNow/hydrator) and follow the instructions for installation in their README. As there are a lot of separate Tweet ID files in this repository, it might be advisable to first merge files from timeframes of interest into a larger file before hydrating the Tweets through the GUI. 
-
-### Hydrating using [Twarc](https://github.com/DocNow/twarc) (CLI)
-Many thanks to Ed Summers ([edsu](https://github.com/edsu)) for writing this script that uses [Twarc](https://github.com/DocNow/twarc) to hydrate all Tweet-IDs stored in their corresponding folders. 
-
-First install Twarc and tqdm
-```
-pip3 install twarc
-pip3 install tqdm
-```
-
-Configure Twarc with your Twitter API tokens (note you must [apply](https://developer.twitter.com/en/apply-for-access) for a Twitter developer account first in order to obtain the needed tokens). You can also configure the API tokens in the script, if unable to configure through CLI. 
-```
-twarc configure
-```
-
-Run the script. The hydrated Tweets will be stored in the same folder as the Tweet-ID file, and is saved as a compressed jsonl file
-```
-python3 hydrate.py
-```
-
 # Data Usage Agreement / How to Cite
 By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
 
