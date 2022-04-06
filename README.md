@@ -1,6 +1,6 @@
 # Russo Ukrainian War Collection of Tweet IDs
  
-The repository contains an ongoing collection of tweets IDs associated with the current war between Russia and Ukraine, which we commenced collecting on Februrary 24, 2022. We leveraged Twitter's search API to extract historical tweets, leading our dataset to contain tweets from February 22, 2022. We utilize Twitter’s streaming API to collect dataset based on selected popular hashtags corelated to particullar topic. The list of selected hashtags is presented in "hashtag_list.txt" file. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
+The repository contains an ongoing collection of tweets IDs associated with the current war between Russia and Ukraine, which we commenced collecting on Februrary 24, 2022. We leveraged Twitter's search API to extract historical tweets, leading our dataset to contain tweets from February 22, 2022. We utilize Twitter’s streaming API to collect dataset based on selected popular hashtags corelated to particullar topic. The list of selected hashtags is presented in "hashtags.txt" file. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
 The associated paper to this repository can be found here: [TODO: Paper title](TODO: Paper URL)
 
@@ -76,4 +76,3 @@ Please read through the README and the closed issues to see if your question has
 
 If you have any  questions about this dataset/analysis, please contact Alexander Shevtsov at **shevtsov[at]ics[dot]forth[dot]gr**.
 
-# Related Papers
