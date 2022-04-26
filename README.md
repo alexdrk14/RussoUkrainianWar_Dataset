@@ -31,7 +31,12 @@ By using this dataset, you agree to abide by the stipulations in the license, re
 Authors and Paper title with arxiv_id
 BibTeX:
 ```bibtex
-@misc{TODO}
+@misc{shevtsov2022twitter,
+  title={Twitter Dataset on the Russo-Ukrainian War},
+  author={Shevtsov, Alexander and Tzagkarakis, Christos and Antonakaki, Despoina and Pratikakis, Polyvios and Ioannidis, Sotiris},
+  journal={arXiv preprint arXiv:2204.08530},
+  year={2022}
+}
 ```
 
 
