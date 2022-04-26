@@ -2,7 +2,7 @@
  
 The repository contains an ongoing collection of tweets IDs associated with the current war between Russia and Ukraine, which we commenced collecting on Februrary 24, 2022. We leveraged Twitter's search API to extract historical tweets, leading our dataset to contain tweets from February 22, 2022. We utilize Twitter’s streaming API to collect dataset based on selected popular hashtags corelated to particullar topic. The list of selected hashtags is presented in "hashtags.txt" file. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
-The associated paper to this repository can be found here: [TODO: Paper title](TODO: Paper URL)
+The associated paper to this repository can be found here: [Twitter Dataset on the Russo-Ukrainian War](https://arxiv.org/abs/2204.08530)
 
 
 
@@ -31,12 +31,17 @@ By using this dataset, you agree to abide by the stipulations in the license, re
 Authors and Paper title with arxiv_id
 BibTeX:
 ```bibtex
-@misc{TODO}
+@misc{shevtsov2022twitter,
+  title={Twitter Dataset on the Russo-Ukrainian War},
+  author={Shevtsov, Alexander and Tzagkarakis, Christos and Antonakaki, Despoina and Pratikakis, Polyvios and Ioannidis, Sotiris},
+  journal={arXiv preprint arXiv:2204.08530},
+  year={2022}
+}
 ```
 
 
 # Statistics Summary (v1.0)
-Number of Tweets : **57,759,943**
+Number of Tweets : **66,128,912**
 
 
 # Inquiries
