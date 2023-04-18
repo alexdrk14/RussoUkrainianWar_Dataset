@@ -41,7 +41,7 @@ BibTeX:
 
 
 # Statistics Summary (v1.0)
-Number of Tweets : **66,128,912**
+Number of Tweets : **118,674,340**
 
 
 # Inquiries
