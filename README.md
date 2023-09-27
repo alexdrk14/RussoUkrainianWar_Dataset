@@ -3,6 +3,7 @@
 The repository contains an ongoing collection of tweets IDs associated with the current war between Russia and Ukraine, which we commenced collecting on Februrary 24, 2022. We leveraged Twitter's search API to extract historical tweets, leading our dataset to contain tweets from February 22, 2022. We utilize Twitter’s streaming API to collect dataset based on selected popular hashtags corelated to particullar topic. The list of selected hashtags is presented in "hashtags.txt" file. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
 The associated paper to this repository can be found here: [Twitter Dataset on the Russo-Ukrainian War](https://arxiv.org/abs/2204.08530)
+Additionally, we have shared the collected text data sorted by creation date. User IDs, tweet IDs, and user mentions have all been anonymized for privacy. You can access the data via the following link: [Zenodo repository](https://zenodo.org/record/8362914).
 
 
 
@@ -41,12 +42,12 @@ BibTeX:
 
 
 # Statistics Summary (v1.0)
-Number of Tweets : **123,777,168**
+Number of Tweets : **127,275,386**
 
 
 # Inquiries
 
 Please read through the README and the closed issues to see if your question has already been addressed first. 
 
-If you have any  questions about this dataset/analysis, please contact Alexander Shevtsov at **shevtsov[at]ics[dot]forth[dot]gr**.
+If you have any  questions about this dataset/analysis, please contact Alexander Shevtsov at **asevtsov[at]tuc.gr**.
 
