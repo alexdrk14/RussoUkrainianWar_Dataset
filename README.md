@@ -3,8 +3,6 @@
 The repository contains an ongoing collection of tweets IDs associated with the current war between Russia and Ukraine, which we commenced collecting on Februrary 24, 2022. We leveraged Twitter's search API to extract historical tweets, leading our dataset to contain tweets from February 22, 2022. We utilize Twitter’s streaming API to collect dataset based on selected popular hashtags corelated to particullar topic. The list of selected hashtags is presented in "hashtags.txt" file. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. 
 
 The associated paper to this repository can be found here: [Twitter Dataset on the Russo-Ukrainian War](https://arxiv.org/abs/2204.08530)
-Additionally, we have shared the collected text data sorted by creation date. User IDs, tweet IDs, and user mentions have all been anonymized for privacy. You can access the data via the following link: [Zenodo repository](https://zenodo.org/record/8362914).
-
 
 
 ## Data Organization
@@ -24,7 +22,11 @@ We are manage to perform multiple statistical measurments in daily basis over th
 * Sentiment analysis between entities of Russia and Ukraine
 * Sentiment analysis between entities of Putin and Zelensky
 
-All described analytics are published in [Parasecurity Group webpage](https://alexdrk14.github.io/RussiaUkraineWar/). 
+All described analytics are published in [Parasecurity Group webpage](https://alexdrk14.github.io/RussiaUkraineWar/).
+
+## Anonymized Data Sharing
+Additionally, we have shared the collected text data sorted by creation date. User IDs, tweet IDs, and user mentions have all been anonymized for privacy. You can access the data via the following link: [Zenodo repository](https://zenodo.org/record/8362914).
+
 
 # Data Usage Agreement / How to Cite
 By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the following manuscript: 
