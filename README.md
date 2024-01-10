@@ -22,7 +22,7 @@ We are manage to perform multiple statistical measurments in daily basis over th
 * Sentiment analysis between entities of Russia and Ukraine
 * Sentiment analysis between entities of Putin and Zelensky
 
-All described analytics are published in [Parasecurity Group webpage](https://alexdrk14.github.io/RussiaUkraineWar/).
+All described analytics are published in [Parasecurity Group webpage](https://russoukrainianwar.parasecurity.edu.gr).
 
 ## Anonymized Data Sharing
 Additionally, we have shared the collected text data sorted by creation date. User IDs, tweet IDs, and user mentions have all been anonymized for privacy. You can access the data via the following link: [Zenodo repository](https://zenodo.org/records/8431047).
